@@ -1,3 +1,4 @@
+import PhotoUpload from "./components/PhotoUpload";
 import { BookMarked, CalendarDays, GraduationCap, Sparkles } from 'lucide-react';
 import { useMemo, useState } from 'react';
 import Directory from './components/Directory.jsx';
